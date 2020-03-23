@@ -9,10 +9,30 @@ text_x = x + 80;
 text_y = y + 145;
 box_x  = x + 10;
 box_y  = y + 125;
+secondColumn = false;
 
 length = ds_list_size(arrayOfWork)
 for(i = 0; i < length; i++)
 {
-	draw_sprite(spr_checkbox,0,box_x,box_y+(40*i));
-	draw_text(text_x, text_y + (40*i), ds_list_find_value(arrayOfWork,i));
+	//If the number of tasks reach the bottom of the list,
+	//shift the x and restart the y so it starts at the top again
+	if(text_y+(40*i)>725 && !secondColumn)
+	{
+		draw_sprite(spr_checkbox,0,box_x+120,box_y+(40*(i-12)));
+		draw_text(text_x + 120, text_y + (40*(i-12)), ds_list_find_value(arrayOfWork,i));
+	}
+	else if(text_y+(40*i)>725 && secondColumn)
+	{
+		draw_sprite(spr_checkbox,0,box_x+240,box_y+(40*(i-24)));
+		draw_text(text_x + 240, text_y + (40*(i-24)), ds_list_find_value(arrayOfWork,i));
+	}
+	else
+	{
+		draw_sprite(spr_checkbox,0,box_x,box_y+(40*i));
+		draw_text(text_x, text_y + (40*i), ds_list_find_value(arrayOfWork,i));
+	}
+	if(i ==23)
+	{
+		secondColumn = true;	
+	}
 }

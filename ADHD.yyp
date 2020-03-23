@@ -175,11 +175,35 @@
             }
         },
         {
+            "Key": "6a88b5ab-7778-4a22-b7e8-0fff1f8cc5b5",
+            "Value": {
+                "id": "244e4f9d-1c85-4275-9ccb-2079e86661ff",
+                "resourcePath": "objects\\obj_mainMenuButton\\obj_mainMenuButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6bcde57f-b53e-4e73-a0eb-66f01b214fa7",
             "Value": {
                 "id": "1706a501-f903-4026-a474-94867c239f6a",
                 "resourcePath": "views\\6bcde57f-b53e-4e73-a0eb-66f01b214fa7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "790691ec-0e73-4704-b49b-6a93b8b9acd1",
+            "Value": {
+                "id": "0c4e02b5-0844-4a63-870e-5f75e5362a96",
+                "resourcePath": "sprites\\spr_cursor\\spr_cursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "804a3cf7-fadb-4957-a4f9-fdc72dca698a",
+            "Value": {
+                "id": "b68b228b-0933-4f18-bb01-6f924f1c66ef",
+                "resourcePath": "sprites\\spr_menuButton\\spr_menuButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,6 +255,14 @@
             }
         },
         {
+            "Key": "ae93dfd2-8c54-40e9-b92b-eb925b66de38",
+            "Value": {
+                "id": "f67d7ab7-d20f-4d72-8939-0142c96cc462",
+                "resourcePath": "objects\\obj_instructionButton\\obj_instructionButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b5bbbbd7-638c-4ebc-a8e2-249e951ebff7",
             "Value": {
                 "id": "45031312-0117-4783-8c45-66e20c05538e",
@@ -279,6 +311,14 @@
             }
         },
         {
+            "Key": "c384226a-2ea3-4124-a2bf-3fd6653b79c9",
+            "Value": {
+                "id": "4296cc7a-c539-4d5f-9540-e06762a1b04a",
+                "resourcePath": "objects\\obj_controllableCursor\\obj_controllableCursor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a595acc9-a3d9-411e-ad01-2b4b36c44fa6",
@@ -308,6 +348,14 @@
                 "id": "30e685e0-6ae4-4efb-a717-3113789300ff",
                 "resourcePath": "sprites\\spr_basicArt\\spr_basicArt.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "edf3db33-ebd9-44ce-ad2a-6ff83487d186",
+            "Value": {
+                "id": "d633d0fb-9203-4eed-874e-99bdc1d2b7dc",
+                "resourcePath": "rooms\\rm_Instructions\\rm_Instructions.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
