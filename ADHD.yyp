@@ -16,7 +16,8 @@
                 "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
                 "Value": {
                     "configDeltas": [
-                        "inherited"
+                        "inherited",
+                        "inherited_ed003d66-f766-485a-90a6-8207505abd02"
                     ],
                     "id": "7886fecf-0bcc-4390-9824-38f476440b6d",
                     "resourcePath": "options\\main\\options_main.yy",
@@ -140,6 +141,14 @@
                 "id": "d0b7ddf6-0c5c-47b8-8ec4-93371729a6e8",
                 "resourcePath": "rooms\\rm_GameOver\\rm_GameOver.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5fda09e6-87af-4ba8-8582-c54852a507e6",
+            "Value": {
+                "id": "7e948ce5-0b8e-423c-8410-e503e2bbb638",
+                "resourcePath": "sprites\\Things_to_do_overlay\\Things_to_do_overlay.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
