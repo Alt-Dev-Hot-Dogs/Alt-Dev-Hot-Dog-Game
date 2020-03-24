@@ -80,6 +80,14 @@
             }
         },
         {
+            "Key": "32ec7307-5705-4c49-a10d-a18971e9e37b",
+            "Value": {
+                "id": "cfd8c8b9-b128-4b92-9eb7-29e4b80af275",
+                "resourcePath": "sprites\\main_Menu_Background\\main_Menu_Background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3786a203-0596-4c37-9ebb-97936d7c6145",
             "Value": {
                 "id": "aa29fb0a-c9db-4b6c-9902-057a2ee812fd",
