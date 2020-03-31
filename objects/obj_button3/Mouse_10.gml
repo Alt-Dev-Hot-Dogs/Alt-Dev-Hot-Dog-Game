@@ -4,6 +4,7 @@
 //switchRoom = true;
 if(switchStop == 0)
 {
-	room_goto(rm_MiniGame1);
+	room_goto(rm_MiniGame3);
 	switchStop = 1;
+	obj_controllableCursor.depth-=1;
 }

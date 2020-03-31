@@ -4,3 +4,4 @@
 //switchRoom = true;
 room_goto(rm_Start);
 switchStop = 0;
+obj_controllableCursor.depth-=1;
