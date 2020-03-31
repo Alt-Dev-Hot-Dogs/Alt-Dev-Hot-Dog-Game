@@ -376,11 +376,27 @@
             }
         },
         {
+            "Key": "f0e27836-5b52-4a35-b8d1-b490b996ecd3",
+            "Value": {
+                "id": "7bc8cb71-23ca-4aa7-83a6-93710114efe5",
+                "resourcePath": "rooms\\test2\\test2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f634aefd-0299-46a0-9f4e-9a3489dafe54",
             "Value": {
                 "id": "248ae963-eca4-422b-8c6d-61eafc048690",
                 "resourcePath": "rooms\\rm_MiniGame3\\rm_MiniGame3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f668db6b-9103-44ba-890b-711283b91757",
+            "Value": {
+                "id": "3e18627c-f624-46b1-97d4-b3c316b2c3f6",
+                "resourcePath": "objects\\testButton\\testButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
