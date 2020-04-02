@@ -5,3 +5,4 @@
 room_goto(rm_Start);
 switchStop = 0;
 obj_controllableCursor.depth-=1;
+obj_checklist.depth-=1;

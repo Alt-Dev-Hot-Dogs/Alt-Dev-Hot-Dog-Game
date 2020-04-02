@@ -7,4 +7,5 @@ if(switchStop == 0)
 	room_goto(rm_MiniGame1);
 	switchStop = 1;
 	obj_controllableCursor.depth-=1;
+	obj_checklist.depth-=1;
 }

@@ -48,6 +48,14 @@
             }
         },
         {
+            "Key": "16e5bf63-3777-4c4e-8495-b7c79c55e13c",
+            "Value": {
+                "id": "9ef7e5d7-d329-4f67-bfcd-490536c80a29",
+                "resourcePath": "objects\\obj_EssayWriting\\obj_EssayWriting.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f89942d-172c-437b-8017-4f7a298d1891",
             "Value": {
                 "id": "197ef24d-0836-4a2e-9e9c-8c06e4bf50de",
@@ -136,6 +144,14 @@
             }
         },
         {
+            "Key": "538ca7ed-5de4-49e3-b65d-bc64611f1915",
+            "Value": {
+                "id": "8ec12b9f-b3ee-41cc-bd3e-e44d7b9e6f7b",
+                "resourcePath": "sprites\\spr_EssayMonitor\\spr_EssayMonitor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "55015d43-e30b-4bd1-aac6-9786427d4621",
             "Value": {
                 "id": "58564767-e248-44d7-a472-ddb9d5630015",
@@ -149,6 +165,14 @@
                 "id": "d0b7ddf6-0c5c-47b8-8ec4-93371729a6e8",
                 "resourcePath": "rooms\\rm_GameOver\\rm_GameOver.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "557f3947-85a6-4796-b439-3e16a096ab53",
+            "Value": {
+                "id": "ff843c62-e6f2-42e2-818b-973003dab520",
+                "resourcePath": "sprites\\spr_Folder\\spr_Folder.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
