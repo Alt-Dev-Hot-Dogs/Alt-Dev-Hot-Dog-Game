@@ -176,6 +176,14 @@
             }
         },
         {
+            "Key": "5c29a3a1-dd57-4bc8-8347-cd54e6dc8a15",
+            "Value": {
+                "id": "353a26cd-308a-4088-8174-d14dcf9f8abe",
+                "resourcePath": "sprites\\spr_wardrobe\\spr_wardrobe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5fda09e6-87af-4ba8-8582-c54852a507e6",
             "Value": {
                 "id": "7e948ce5-0b8e-423c-8410-e503e2bbb638",
@@ -229,6 +237,14 @@
                 "id": "1706a501-f903-4026-a474-94867c239f6a",
                 "resourcePath": "views\\6bcde57f-b53e-4e73-a0eb-66f01b214fa7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6ff01507-d8c4-4dc9-8773-5a7165dd2e1d",
+            "Value": {
+                "id": "656c96c8-02a6-42fd-bebd-8d8556a19350",
+                "resourcePath": "objects\\obj_Wardrobe\\obj_Wardrobe.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -328,6 +344,14 @@
             }
         },
         {
+            "Key": "b9259a31-0bbe-4c15-bd55-70f148d56617",
+            "Value": {
+                "id": "99be2786-5ac3-442e-bedd-e2464fc9b11b",
+                "resourcePath": "sprites\\spr_shirt\\spr_shirt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c03635d8-999c-4a03-9d15-538c9aa71b2b",
             "Value": {
                 "id": "9a2f2722-77eb-40a8-8914-87ff102c029e",
@@ -357,6 +381,14 @@
                 "id": "4296cc7a-c539-4d5f-9540-e06762a1b04a",
                 "resourcePath": "objects\\obj_controllableCursor\\obj_controllableCursor.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c7f162a5-cdd8-41b9-acd6-fc0b2f00308b",
+            "Value": {
+                "id": "4516507c-64e2-4e41-ac4a-c8e5a899b3b8",
+                "resourcePath": "sprites\\spr_pants\\spr_pants.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

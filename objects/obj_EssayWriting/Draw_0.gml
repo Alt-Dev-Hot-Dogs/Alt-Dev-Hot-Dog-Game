@@ -12,11 +12,11 @@ else
 {
 	draw_set_color(c_black);
 	draw_sprite(spr_Folder,0,x+160,300);
-	draw_text(x+160,300,ds_list_find_value(actualFolderChoice,0)+"(0)");
+	draw_text(x+160,300,ds_list_find_value(actualFolderChoice,0)+"(1)");
 	draw_sprite(spr_Folder,0,x+360,300);
-	draw_text(x+320,300,ds_list_find_value(actualFolderChoice,1)+"(1)");
+	draw_text(x+320,300,ds_list_find_value(actualFolderChoice,1)+"(2)");
 	draw_sprite(spr_Folder,0,x+160,450);
-	draw_text(x+160,500,ds_list_find_value(actualFolderChoice,2)+"(2)");
+	draw_text(x+160,500,ds_list_find_value(actualFolderChoice,2)+"(3)");
 	draw_sprite(spr_Folder,0,x+360,450);
-	draw_text(x+320,500,ds_list_find_value(actualFolderChoice,3)+"(3)");
+	draw_text(x+320,500,ds_list_find_value(actualFolderChoice,3)+"(4)");
 }

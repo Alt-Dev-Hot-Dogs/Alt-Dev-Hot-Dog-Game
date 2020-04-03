@@ -38,7 +38,6 @@ else
 			if(keyboard_check(ord(correctIndex)))
 			{
 				index = ds_list_find_index(obj_checklist.arrayOfNotDoneWork, "Red");
-				show_debug_message(index);
 				ds_list_replace(obj_checklist.stateOfEachTask,index,1);
 				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 				gameDone = true;

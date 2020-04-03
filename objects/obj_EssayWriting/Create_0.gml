@@ -59,3 +59,4 @@ ds_list_add(actualFolderChoice, paper[task]);
 ds_list_shuffle(actualFolderChoice);
 //Find what index the correct folder is
 correctIndex = ds_list_find_index(actualFolderChoice, paper[task]);
+correctIndex+=1;
