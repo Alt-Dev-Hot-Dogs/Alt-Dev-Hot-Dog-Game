@@ -39,6 +39,7 @@ if(!gameDone)
 			index = ds_list_find_index(obj_checklist.arrayOfNotDoneWork, "Blue");
 			ds_list_replace(obj_checklist.stateOfEachTask,index,1);
 			ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
+			playerScore += 5;
 		}
 		//other wise they lose
 		else

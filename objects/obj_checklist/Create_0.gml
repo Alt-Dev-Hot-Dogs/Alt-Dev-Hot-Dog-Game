@@ -3,7 +3,7 @@
 
 //Some variables to use
 
-timeForEachTask = 15;
+timeForEachTask = 2;
 
 //This creates the list that is drawn on the task list
 arrayOfWork= ds_list_create();

@@ -41,6 +41,7 @@ else
 				ds_list_replace(obj_checklist.stateOfEachTask,index,1);
 				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 				gameDone = true;
+				playerScore +=5;
 			}
 			else
 			{
