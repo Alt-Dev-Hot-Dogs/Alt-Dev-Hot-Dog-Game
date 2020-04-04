@@ -6,6 +6,8 @@ if(!gameDone)
 	if(addDistraction)
 	{
 		addDistraction = false;
+		randomX = irandom_range(0,50);
+		randomY = irandom_range(10,25);
 		ds_list_shuffle(listOfDistractions);
 		currentDistraction = ds_list_find_value(listOfDistractions,0);
 	}
