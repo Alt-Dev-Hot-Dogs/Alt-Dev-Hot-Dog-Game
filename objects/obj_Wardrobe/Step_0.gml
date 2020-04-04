@@ -45,8 +45,8 @@ if(!gameDone)
 		else
 		{
 			index = ds_list_find_index(obj_checklist.arrayOfNotDoneWork, "Blue");
-				ds_list_replace(obj_checklist.stateOfEachTask,index,2);
-				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
+			ds_list_replace(obj_checklist.stateOfEachTask,index,2);
+			ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 		}
 	}
 }
