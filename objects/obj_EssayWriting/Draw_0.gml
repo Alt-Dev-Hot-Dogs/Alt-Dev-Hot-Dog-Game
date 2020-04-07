@@ -4,9 +4,9 @@ draw_self();
 if(!typingDone)
 {
 	draw_set_color(c_green);
-	draw_text_ext(x+240,280,targetSentence,30,700);
+	draw_text_ext(x+240,280,targetSentence,30,600);
 	draw_set_color(color);
-	draw_text_ext(x+240,360,playerString,30,700);
+	draw_text_ext(x+240,360,playerString,30,600);
 }
 else
 {
