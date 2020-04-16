@@ -24,8 +24,12 @@
         "3c245582-990d-4094-b20c-17273b59695a",
         "056452e9-6f30-42f5-8e33-0f68b8ad1e42",
         "0f23beac-7782-4fa2-8346-2b855aacee90",
+<<<<<<< HEAD
         "356b31d7-371c-4674-9a46-9047f4d2d93e",
         "f599874f-4766-4e21-8580-d2adc08a2709"
+=======
+        "356b31d7-371c-4674-9a46-9047f4d2d93e"
+>>>>>>> parent of 44847ce... Added pictures, but everything isnt to scale.
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
