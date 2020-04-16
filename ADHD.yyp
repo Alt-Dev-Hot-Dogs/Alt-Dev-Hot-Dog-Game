@@ -88,6 +88,14 @@
             }
         },
         {
+            "Key": "266a6a51-d9a6-4b77-9910-8f3bb7182525",
+            "Value": {
+                "id": "9d8a6d14-0944-4ec4-9ece-0940a71d65a6",
+                "resourcePath": "sprites\\spr_correctEssay\\spr_correctEssay.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27260a64-e115-49fd-bcf9-301ba2f68230",
             "Value": {
                 "id": "950be884-eff9-4739-9e6e-a33b3ea6d958",
@@ -328,6 +336,14 @@
             }
         },
         {
+            "Key": "8c3029dd-a47c-4faa-88db-6621324ce8f9",
+            "Value": {
+                "id": "31c761d1-a7be-417d-a841-2eec08519d38",
+                "resourcePath": "sprites\\spr_submitEssay\\spr_submitEssay.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9b0ed215-5a4c-4f32-b954-89d98a320c87",
             "Value": {
                 "id": "9a5956db-e108-4341-81b1-83a1c8ab242c",
@@ -373,6 +389,22 @@
                 "id": "f67d7ab7-d20f-4d72-8939-0142c96cc462",
                 "resourcePath": "objects\\obj_instructionButton\\obj_instructionButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "af4c9243-e291-4824-b618-91e66e157eec",
+            "Value": {
+                "id": "7612f7f9-6f06-4caa-85fa-d8b4b89a236b",
+                "resourcePath": "sprites\\spr_Desktop\\spr_Desktop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b54a8dc0-995f-4736-8df3-e4dd64e9edfe",
+            "Value": {
+                "id": "124db7d0-5190-49a2-87c2-3ce1f2703124",
+                "resourcePath": "sprites\\spr_trueWardrobe\\spr_trueWardrobe.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -448,6 +480,14 @@
             }
         },
         {
+            "Key": "ca04f5aa-e346-4b8e-bfe8-703b29646c12",
+            "Value": {
+                "id": "2da84899-660e-4919-8b7c-c84366994ae2",
+                "resourcePath": "views\\ca04f5aa-e346-4b8e-bfe8-703b29646c12.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a595acc9-a3d9-411e-ad01-2b4b36c44fa6",
@@ -480,6 +520,14 @@
             }
         },
         {
+            "Key": "e4968115-84c5-4a50-aeb6-a599bdd92cd9",
+            "Value": {
+                "id": "2ef3b536-6bd7-495d-b1e7-acb47b49e64d",
+                "resourcePath": "sprites\\spr_writeEssay\\spr_writeEssay.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e914f5f9-383f-4cf1-85ac-0dd7cc446501",
             "Value": {
                 "id": "30e685e0-6ae4-4efb-a717-3113789300ff",
@@ -501,6 +549,14 @@
                 "id": "7bc8cb71-23ca-4aa7-83a6-93710114efe5",
                 "resourcePath": "rooms\\test2\\test2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f3370d6a-1199-49cb-aa31-a7e8deaeabfe",
+            "Value": {
+                "id": "782d2ba5-82ec-4787-bfad-e60c1b18d5f0",
+                "resourcePath": "sprites\\spr_wrongEssay\\spr_wrongEssay.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -42,6 +42,7 @@ else
 				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 				gameDone = true;
 				playerScore +=5;
+				rightOrWrong = 0;
 			}
 			else
 			{
@@ -49,6 +50,7 @@ else
 				ds_list_replace(obj_checklist.stateOfEachTask,index,2);
 				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 				gameDone = true;
+				rightOrWrong = 1;
 			}	
 		}	
 	}
