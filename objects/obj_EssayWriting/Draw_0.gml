@@ -10,7 +10,7 @@ if(!typingDone)
 	//Change the position where the text is being drawn
 	draw_text_ext(x+260,280,targetSentence,30,550);
 	draw_set_color(color);
-	draw_text_ext(x+260,360,playerString,30,550);
+	draw_text_ext(x+260,360,playerString,30,550); 
 }
 else
 {
