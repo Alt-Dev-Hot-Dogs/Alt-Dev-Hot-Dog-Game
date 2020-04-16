@@ -33,15 +33,16 @@ else
 	keyboard_string = "";
 	if(!gameDone)
 	{
-		if(keyboard_check(ord(0))||keyboard_check(ord(1))||keyboard_check(ord(2))||keyboard_check(ord(3)))
+		if(keyboard_check_pressed(ord(0))||keyboard_check_pressed(ord(1))||keyboard_check(ord(2))||keyboard_check(ord(3)))
 		{
-			if(keyboard_check(ord(correctIndex)))
+			if(keyboard_check_pressed(ord(correctIndex)))
 			{
 				index = ds_list_find_index(obj_checklist.arrayOfNotDoneWork, "Red");
 				ds_list_replace(obj_checklist.stateOfEachTask,index,1);
 				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 				gameDone = true;
 				playerScore +=5;
+				rightOrWrong = 0;
 			}
 			else
 			{
@@ -49,6 +50,7 @@ else
 				ds_list_replace(obj_checklist.stateOfEachTask,index,2);
 				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 				gameDone = true;
+				rightOrWrong = 1;
 			}	
 		}	
 	}

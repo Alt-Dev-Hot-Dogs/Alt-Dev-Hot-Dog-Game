@@ -8,6 +8,7 @@ keyboard_string = "";
 obj_basicArt.depth-=1;
 color = c_black;
 gameDone = false;
+rightOrWrong = -1;
 
 //Array of sentences to display for essay
 sentences[0] = "America was founded in 1776.";//(history paper)
