@@ -160,6 +160,14 @@
             }
         },
         {
+            "Key": "48b9b7ff-af5a-4ba5-b734-79a64a34937e",
+            "Value": {
+                "id": "3adbc6d2-ae80-4914-ae4d-71f0d08e7142",
+                "resourcePath": "sounds\\Checked_off\\Checked_off.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "493b074d-cb31-43ae-a61a-dcd1ca7ce8e0",
             "Value": {
                 "id": "af8c8716-c57c-4112-97c0-a148ef8beb45",
@@ -173,14 +181,6 @@
                 "id": "d0bf2132-0001-41da-95b5-8df436b1dbfb",
                 "resourcePath": "views\\514dd984-d410-4d8c-8f0a-fd187c1f7f7d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "51ecbc4c-bdc3-4674-9f90-a6b213e94f1c",
-            "Value": {
-                "id": "9977fbb0-72bb-4bab-93c4-5a98cc5a84d9",
-                "resourcePath": "sounds\\temp_Background_sound\\temp_Background_sound.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -416,6 +416,14 @@
             }
         },
         {
+            "Key": "baedab8e-dc74-4d08-a770-2e1f7cbc32fc",
+            "Value": {
+                "id": "08b2fa8a-bd00-43b7-bf55-2e291b2deb3c",
+                "resourcePath": "sounds\\bell_ring_01\\bell_ring_01.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c03635d8-999c-4a03-9d15-538c9aa71b2b",
             "Value": {
                 "id": "9a2f2722-77eb-40a8-8914-87ff102c029e",
@@ -512,6 +520,14 @@
             }
         },
         {
+            "Key": "f599874f-4766-4e21-8580-d2adc08a2709",
+            "Value": {
+                "id": "3dce506c-c480-41f6-9683-089887cc47d7",
+                "resourcePath": "sprites\\sprite21\\sprite21.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f634aefd-0299-46a0-9f4e-9a3489dafe54",
             "Value": {
                 "id": "248ae963-eca4-422b-8c6d-61eafc048690",
@@ -533,14 +549,6 @@
                 "id": "24ff75b0-650e-4530-894a-09a10f40cc67",
                 "resourcePath": "views\\f8d579aa-bc81-4a5d-ad14-72e1ac62dd7a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f90529d9-fdcf-4eb3-96f2-e18ac39eaa3a",
-            "Value": {
-                "id": "d68b6463-ae67-477a-ba28-8e437ca73e6d",
-                "resourcePath": "sounds\\select_from_options\\select_from_options.yy",
-                "resourceType": "GMSound"
             }
         },
         {
