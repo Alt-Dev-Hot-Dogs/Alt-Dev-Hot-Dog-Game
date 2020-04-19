@@ -2,15 +2,16 @@
 // You can write your code in this editor
 
 draw_self();
+draw_set_font(font_Words);
 if(!typingDone)
 {
 	//If the draw_self does not work, you can manually draw the actual sprite but oyu have to scale it
 	//draw_sprite(spr_writeEssay,0,x,y);
 	draw_set_color(c_green);
 	//Change the position where the text is being drawn
-	draw_text_ext(x+260,280,targetSentence,30,550);
+	draw_text_ext(x+310,350,targetSentence,30,400);
 	draw_set_color(color);
-	draw_text_ext(x+260,360,playerString,30,550); 
+	draw_text_ext(x+310,450,playerString,30,400); 
 }
 else
 {

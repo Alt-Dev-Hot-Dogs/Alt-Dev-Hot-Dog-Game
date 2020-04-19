@@ -5,7 +5,7 @@ initialSprX = x+120;
 initialSprY = y+10;
 controlX = x+170;
 
-draw_set_color(c_white);
+draw_set_color(c_black);
 for(i=0;i<3;i++)
 {
 	draw_sprite(spr_shirt,ds_list_find_value(shirts,i),initialSprX+(120*i),initialSprY+45);

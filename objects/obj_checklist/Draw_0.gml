@@ -4,7 +4,7 @@ draw_self();
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 draw_set_color(c_red);
-draw_set_font(font_Words);
+draw_set_font(font_CheckList);
 text_x = x + 60;
 text_y = y + 95;
 box_x  = x + 10;
