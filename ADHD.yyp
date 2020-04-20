@@ -48,10 +48,26 @@
             }
         },
         {
+            "Key": "0e410dc2-2cc5-44db-865f-64ab16677571",
+            "Value": {
+                "id": "fb666d08-907c-44ff-8b17-2dc1f354b719",
+                "resourcePath": "sprites\\spr_shoppingList\\spr_shoppingList.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f23beac-7782-4fa2-8346-2b855aacee90",
             "Value": {
                 "id": "e28e6ec2-567f-4e67-b7b7-cd0e4a63e8c1",
                 "resourcePath": "sprites\\sprite19\\sprite19.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0fa30f32-1dea-4630-94b4-b17fed8662a9",
+            "Value": {
+                "id": "96981246-0160-4bc3-904c-232ebca0dbf1",
+                "resourcePath": "sprites\\sprite27\\sprite27.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -85,6 +101,14 @@
                 "id": "8bfcedb9-cd5f-4f74-afc0-7e5ba0a1036c",
                 "resourcePath": "objects\\obj_manager\\obj_manager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "22bfcc8a-c896-4b36-99e3-96df0f9c753b",
+            "Value": {
+                "id": "49feda33-bb1d-43e8-ace7-10138fdf442e",
+                "resourcePath": "sprites\\spr_food\\spr_food.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -344,6 +368,14 @@
             }
         },
         {
+            "Key": "943d0675-20de-466f-a5f2-d45f29264656",
+            "Value": {
+                "id": "ec90a2ad-dad7-413b-bcbe-dab3c051ca4d",
+                "resourcePath": "sprites\\spr_shop\\spr_shop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9b0ed215-5a4c-4f32-b954-89d98a320c87",
             "Value": {
                 "id": "9a5956db-e108-4341-81b1-83a1c8ab242c",
@@ -396,14 +428,6 @@
             "Value": {
                 "id": "7612f7f9-6f06-4caa-85fa-d8b4b89a236b",
                 "resourcePath": "sprites\\spr_Desktop\\spr_Desktop.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b54a8dc0-995f-4736-8df3-e4dd64e9edfe",
-            "Value": {
-                "id": "124db7d0-5190-49a2-87c2-3ce1f2703124",
-                "resourcePath": "sprites\\spr_trueWardrobe\\spr_trueWardrobe.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -533,6 +557,22 @@
                 "id": "30e685e0-6ae4-4efb-a717-3113789300ff",
                 "resourcePath": "sprites\\spr_basicArt\\spr_basicArt.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ea7a7c9b-9c2c-4c44-b059-6d0371c9b280",
+            "Value": {
+                "id": "0b786c29-3fe5-4c42-a069-52591a0d19a1",
+                "resourcePath": "fonts\\font_CheckList\\font_CheckList.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "edc6f8ea-90e3-4f1e-9d20-ce130e641663",
+            "Value": {
+                "id": "f7acfef4-53b1-46ba-be5b-56fdb0ad7f78",
+                "resourcePath": "objects\\obj_shopping\\obj_shopping.yy",
+                "resourceType": "GMObject"
             }
         },
         {
