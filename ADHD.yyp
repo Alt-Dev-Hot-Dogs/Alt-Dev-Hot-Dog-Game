@@ -200,6 +200,14 @@
             }
         },
         {
+            "Key": "498bf655-6072-4e01-b33b-4698e9dcab9f",
+            "Value": {
+                "id": "ee7ec898-91bd-4a64-882b-500c861fa692",
+                "resourcePath": "sprites\\spr_button4\\spr_button4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "514dd984-d410-4d8c-8f0a-fd187c1f7f7d",
             "Value": {
                 "id": "d0bf2132-0001-41da-95b5-8df436b1dbfb",
@@ -244,6 +252,14 @@
             "Value": {
                 "id": "353a26cd-308a-4088-8174-d14dcf9f8abe",
                 "resourcePath": "sprites\\spr_wardrobe\\spr_wardrobe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ccd199e-707d-46df-9fee-8e075c9c388b",
+            "Value": {
+                "id": "1330b88a-4613-4477-aa7d-865e066a3e73",
+                "resourcePath": "sprites\\spr_buttonDefault\\spr_buttonDefault.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -525,6 +541,14 @@
                 "id": "519d99bf-1784-44c1-a73a-8dc805c91211",
                 "resourcePath": "objects\\obj_InstructionsText\\obj_InstructionsText.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d87b404d-dc3b-4d02-a14d-9214231d47d0",
+            "Value": {
+                "id": "7e168ca7-fcfe-4887-ad15-f277a3f1c9ca",
+                "resourcePath": "sprites\\Pixel_overlay\\Pixel_overlay.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
