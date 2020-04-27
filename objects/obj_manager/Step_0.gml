@@ -21,3 +21,14 @@ else
 		
 	}
 }
+if(!hideOnce)
+{
+	if(mouse_x>500 && mouse_x<645&& mouse_y>99 && mouse_y<210)
+	{
+		visible = true;	
+	}
+	else
+	{
+		visible = false;
+	}	
+}
