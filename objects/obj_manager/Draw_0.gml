@@ -8,6 +8,7 @@ if(!timeIsUp)
 	second = floor(timer%60);
 	if(minute<4&& hideOnce)
 	{
+		driftStart = true;
 		visible = false;
 		hideOnce = false;
 	}
