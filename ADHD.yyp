@@ -56,6 +56,14 @@
             }
         },
         {
+            "Key": "0e52d0eb-4eab-42c8-9035-5607a70d4d7f",
+            "Value": {
+                "id": "988d9b99-7060-4f65-8e7c-4de78ad30079",
+                "resourcePath": "sprites\\spr_plate\\spr_plate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f23beac-7782-4fa2-8346-2b855aacee90",
             "Value": {
                 "id": "e28e6ec2-567f-4e67-b7b7-cd0e4a63e8c1",
