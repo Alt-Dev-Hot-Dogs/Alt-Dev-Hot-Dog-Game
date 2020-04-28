@@ -18,5 +18,10 @@ switch(randomtask)
 			ds_list_add(arrayOfNotDoneWork, "Pink");
 			ds_list_add(stateOfEachTask, 0);
 		break;	
+		case 4:
+			ds_list_add(arrayOfWork, "Green");
+			ds_list_add(arrayOfNotDoneWork, "Green");
+			ds_list_add(stateOfEachTask, 0);
+		break;
 }
 alarm[0] = timeForEachTask*room_speed;	

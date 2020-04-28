@@ -3,11 +3,13 @@
 globalvar wardrobeSeed;
 globalvar timeIsUp;
 globalvar playerScore;
+globalvar hide;
 
 wardrobeSeed = 20;
 timeIsUp = false;
 playerScore = 0;
 restart = false;
+hideOnce = true;
 doOnce = true; //This is the variable to move to the End room after timer is up ONCE.
 //5 minutes for a game
 timer = 300;

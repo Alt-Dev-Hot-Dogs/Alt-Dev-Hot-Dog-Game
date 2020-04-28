@@ -1,12 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_self();
+draw_set_font(font_Words);
 if(!typingDone)
 {
 	draw_set_color(c_green);
-	draw_text_ext(x+240,280,targetSentence,30,600);
+	//Change the position where the text is being drawn
+	draw_text_ext(x+310,350,targetSentence,30,400);
 	draw_set_color(color);
-	draw_text_ext(x+240,360,playerString,30,600);
+	draw_text_ext(x+310,450,playerString,30,400); 
 }
 else
 {
