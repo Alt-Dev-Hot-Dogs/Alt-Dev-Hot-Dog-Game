@@ -19,7 +19,7 @@ if(!timeIsUp)
 	{
 		delay = 30;	
 	}
-	else if(minute<2)
+	else if(minute<1)
 	{
 		delay = 40;	
 	}
