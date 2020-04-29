@@ -19,7 +19,7 @@ alarm[0] = timeForEachTask*room_speed;
 
 for(i=0; i < 5; i++)
 {
-	task = irandom_range(1,3);
+	task = irandom_range(1,4);
 	switch(task)
 	{
 		case 1: 
@@ -37,6 +37,11 @@ for(i=0; i < 5; i++)
 			ds_list_add(arrayOfNotDoneWork, "Pink");
 			ds_list_add(stateOfEachTask, 0);
 		break;	
+		case 4:
+			ds_list_add(arrayOfWork, "Green");
+			ds_list_add(arrayOfNotDoneWork, "Green");
+			ds_list_add(stateOfEachTask, 0);
+		break;
 	}
 }
 
