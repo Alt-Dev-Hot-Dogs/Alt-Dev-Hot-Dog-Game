@@ -32,6 +32,14 @@
     },
     "resources": [
         {
+            "Key": "04fdc47e-6f93-4f9f-a176-4a26c1ca2970",
+            "Value": {
+                "id": "ea73a434-887a-4aec-acf1-14d9ab23741d",
+                "resourcePath": "objects\\obj_MusicManager\\obj_MusicManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ba09927-71bb-45d4-aba7-134fe644321f",
             "Value": {
                 "id": "b75b7d16-b9dc-44c1-b6a7-82afc0dbfc93",
@@ -264,6 +272,14 @@
             }
         },
         {
+            "Key": "47391c5f-0600-4257-a634-c8008d916395",
+            "Value": {
+                "id": "98df2e92-b5a9-4d71-9b5a-91227d4e479f",
+                "resourcePath": "sounds\\Bright_Eyed_Blues\\Bright_Eyed_Blues.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "493b074d-cb31-43ae-a61a-dcd1ca7ce8e0",
             "Value": {
                 "id": "af8c8716-c57c-4112-97c0-a148ef8beb45",
@@ -389,6 +405,14 @@
                 "id": "244e4f9d-1c85-4275-9ccb-2079e86661ff",
                 "resourcePath": "objects\\obj_mainMenuButton\\obj_mainMenuButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6a94da31-49f8-4ce2-87f4-e7be25620d57",
+            "Value": {
+                "id": "dcc6951f-c072-47e0-8059-0b95c5a1abd9",
+                "resourcePath": "sounds\\button_10\\button_10.yy",
+                "resourceType": "GMSound"
             }
         },
         {
