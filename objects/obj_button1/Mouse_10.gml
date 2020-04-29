@@ -9,4 +9,5 @@ if(switchStop == 0 && !timeIsUp)
 	obj_controllableCursor.depth-=1;
 	obj_checklist.depth-=1;
 	obj_manager.depth-=1;
+	audio_play_sound(button_19,10,0);
 }
