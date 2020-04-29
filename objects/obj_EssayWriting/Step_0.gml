@@ -52,6 +52,7 @@ else
 				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 				gameDone = true;
 				rightOrWrong = 1;
+				audio_play_sound(button_10,10,0);
 				
 			}	       
 		}	

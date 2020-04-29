@@ -40,6 +40,7 @@ if(!gameDone)
 			ds_list_replace(obj_checklist.stateOfEachTask,index,1);
 			ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 			playerScore += 5;
+			audio_play_sound(Checked_off,10,0);
 		}
 		//other wise they lose
 		else
@@ -47,6 +48,7 @@ if(!gameDone)
 			index = ds_list_find_index(obj_checklist.arrayOfNotDoneWork, "Blue");
 			ds_list_replace(obj_checklist.stateOfEachTask,index,2);
 			ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
+			audio_play_sound(button_10,10,0);
 		}
 	}
 }
