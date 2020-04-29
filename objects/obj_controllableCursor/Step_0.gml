@@ -24,23 +24,9 @@ if(lagStart)
 	y = shadow_y;
 	
 }
-else if(driftStart)
-{
-	if (x < driftTarget) {
-		x += 1;
-	}
-	if (x > driftTarget) {
-		x -= 1;
-	}
-	if (y < 75) {
-		y += 1;
-	}
-	if (y > 75) {
-		y -= 1;
-	}
-}
 else
 {
 	x = mouse_x;
 	y = mouse_y;	
 }
+

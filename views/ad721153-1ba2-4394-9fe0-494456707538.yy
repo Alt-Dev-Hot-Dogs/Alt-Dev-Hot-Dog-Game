@@ -4,14 +4,12 @@
     "mvc": "1.1",
     "name": "ad721153-1ba2-4394-9fe0-494456707538",
     "children": [
-<<<<<<< HEAD
-        "f90529d9-fdcf-4eb3-96f2-e18ac39eaa3a",
-        "51ecbc4c-bdc3-4674-9f90-a6b213e94f1c",
-        "baedab8e-dc74-4d08-a770-2e1f7cbc32fc",
-        "48b9b7ff-af5a-4ba5-b734-79a64a34937e"
-=======
-        
->>>>>>> parent of 5ece445... added some sounds
+        "0bc2f23a-abc3-4b33-afa2-5d66b1acf57d",
+        "1c4ea5c5-9d1d-4a45-877f-920f9a32dc7a",
+        "da94b970-c134-4bcd-a929-033c2219c540",
+        "9d384154-26b5-4612-8eb2-5ed4bbe05bd8",
+        "8ad109f2-8fa0-4f34-87fe-0d6526544865",
+        "3dc390e5-382c-4253-a6e7-afc703ce36f7"
     ],
     "filterType": "GMSound",
     "folderName": "sounds",
