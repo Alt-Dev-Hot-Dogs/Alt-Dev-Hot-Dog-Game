@@ -44,10 +44,8 @@ for(i=0;i<3;i++)
 	{
 		value = irandom_range(0,8);
 	}
-	show_debug_message("Current value is: " + string(value));
 	ds_list_add(findTheseItems,value);
 	itemListString += items[value]+"\n";
 	ds_list_add(itemListPos,value);
 }
 ds_list_shuffle(findTheseItems);
-show_debug_message(string(ds_list_find_value(itemListPos,0))+"   "+string(ds_list_find_value(itemListPos,1))+"   "+string(ds_list_find_value(itemListPos,2)));
