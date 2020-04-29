@@ -43,6 +43,7 @@ else
 				gameDone = true;
 				playerScore +=5;
 				rightOrWrong = 0;
+				audio_play_sound(Checked_off,10,0);
 			}
 			else
 			{
@@ -51,7 +52,8 @@ else
 				ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
 				gameDone = true;
 				rightOrWrong = 1;
-			}	
+				
+			}	       
 		}	
 	}
 }
