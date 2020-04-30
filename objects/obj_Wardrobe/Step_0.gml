@@ -36,6 +36,7 @@ if(!gameDone)
 		//If the number is correct, they win this minigame
 		if(string_pos(playerChoicePants,combo[playerChoiceShirt])!=0)
 		{
+			playerWon = true;
 			index = ds_list_find_index(obj_checklist.arrayOfNotDoneWork, "Blue");
 			ds_list_replace(obj_checklist.stateOfEachTask,index,1);
 			ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");
@@ -45,6 +46,7 @@ if(!gameDone)
 		//other wise they lose
 		else
 		{
+			playerWon = false;
 			index = ds_list_find_index(obj_checklist.arrayOfNotDoneWork, "Blue");
 			ds_list_replace(obj_checklist.stateOfEachTask,index,2);
 			ds_list_replace(obj_checklist.arrayOfNotDoneWork,index,"None");

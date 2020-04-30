@@ -7,3 +7,4 @@ youWin = false;
 foodStatus = "Uncooked";
 heatSetting = "Off"; // Change by 1 2 3 4
 cookingTime = 0;
+typeOfFood = irandom_range(0,3);

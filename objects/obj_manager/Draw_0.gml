@@ -41,5 +41,5 @@ if(!timeIsUp)
 	
 	// when bar is full x will be 500 and y will be 8. Scale is 112
 	draw_sprite_ext(Score_Bar,0,948-4.48*playerScore,9,1.2*(1+playerScore/10)+playerScore,1,0,-1,1);
-	draw_text(x+70,y+10,"Time Left: \n"+ string(minute)+":"+string(displaySecond));	
+	draw_text(x+70,y+10,string(minute)+":"+string(displaySecond));	
 }

@@ -5,6 +5,7 @@
 shirts = ds_list_create();
 pants = ds_list_create();
 gameDone = false;
+playerWon = false;
 playerChoiceShirt = -1;
 playerChoicePants = -1;
 

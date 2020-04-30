@@ -12,6 +12,7 @@ if(obj_backgroundFood.gameOver)
 	obj_backgroundFood.cookingTime = 0;
 	obj_backgroundFood.cookingDone = false;
 	obj_backgroundFood.youWin = false;
+	obj_backgroundFood.typeOfFood = irandom_range(0,3);
 }
 catchFoodOnce = true;
 updateListOnce = true;
