@@ -3,11 +3,16 @@
 
 globalvar delay;
 globalvar lagStart;
+globalvar driftStart;
+globalvar driftTarget;
 //create event
 
 time = 0; //this will hold the time
 lagStart = false;
 delay = 20;
+driftStart = false;
+randomize();
+driftTarget = 116 * irandom_range(0,3);
 
 lmouse_x[0] = mouse_x;
 lmouse_y[0] = mouse_y;

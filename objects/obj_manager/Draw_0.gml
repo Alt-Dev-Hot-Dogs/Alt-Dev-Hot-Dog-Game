@@ -6,8 +6,20 @@ if(!timeIsUp)
 {
 	minute = floor(timer/60);
 	second = floor(timer%60);
+	displaySecond = second;
+	
+	if(second<30)
+		{
+			displaySecond = second + 30;
+		}
+		else
+		{
+			displaySecond = second;
+		}
+		
 	if(minute<4&& hideOnce)
 	{
+		driftStart = true;
 		visible = false;
 		hideOnce = false;
 	}
@@ -24,7 +36,10 @@ if(!timeIsUp)
 		delay = 40;	
 	}
 	
-	// when bar is full x will be 498 and y will be 33. Scale is 108
-	draw_sprite_ext(Score_Bar,0,927-4.29*playerScore,33,.8*(1+playerScore/10)+playerScore,1,0,-1,1);
-	draw_text(x+70,y+10,"Time Left: \n"+ string(minute)+":"+string(second));	
+	//Top right of score 948, 8
+	//Bot left of score 500,77
+	
+	// when bar is full x will be 500 and y will be 8. Scale is 112
+	draw_sprite_ext(Score_Bar,0,948-4.48*playerScore,9,1.2*(1+playerScore/10)+playerScore,1,0,-1,1);
+	draw_text(x+70,y+10,"Time Left: \n"+ string(minute)+":"+string(displaySecond));	
 }
